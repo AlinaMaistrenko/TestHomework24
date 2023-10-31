@@ -1,0 +1,12 @@
+﻿NAME,TYPE,RESOURCE GROUP,LOCATION,SUBSCRIPTION,
+"0efa28093a-privatelink.mysql.database.azure.com","Private DNS zone","crossproggroup","Global","Azure subscription 1"
+"97632ca640d14a648e80145004329699-dbserver","Azure Database for MySQL flexible server","crossproggroup","West Europe","Azure subscription 1"
+"ASP-CrossProgGroup-acba","App Service plan","crossproggroup","West Europe","Azure subscription 1"
+"CloudLabWP","App Service","crossproggroup","West Europe","Azure subscription 1"
+"cloudlabwp-3ab68cfa16-vnet","Virtual network","crossproggroup","West Europe","Azure subscription 1"
+"CrossAppServicePlan","App Service plan","crossproggroup","East US","Azure subscription 1"
+"NetworkWatcher_westeurope","Network Watcher","networkwatcherrg","West Europe","Azure subscription 1"
+"storagecloudlab2","Storage account","crossproggroup","West US","Azure subscription 1"
+"storagecloudlabs","Storage account","crossproggroup","East US","Azure subscription 1"
+"vault-lnt4fjex","Recovery Services vault","crossproggroup","East US","Azure subscription 1"
+"WebApplication120230924200033","App Service","crossproggroup","East US","Azure subscription 1"
